@@ -14,7 +14,7 @@ e.slx
 
 [test]
 
-test ansible_host=172.20.11.8
+t1 ansible_host=172.20.11.8
 
 [testlab]
-testlab ansible_host=172.17.42.152
+t2 ansible_host=172.17.42.152
