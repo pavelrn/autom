@@ -1,0 +1,20 @@
+[access]
+a1.slx
+a2.slx
+
+[core]
+c1.slx
+c2.slx
+
+[lab]
+l1.slx
+
+[edge]
+e.slx
+
+[test]
+
+test ansible_host=172.20.11.8
+
+[testlab]
+testlab ansible_host=172.17.42.152
